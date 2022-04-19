@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O **spacetraveling** é um blog feito pra te informar sobre o mundo da tecnologia. Desenvolvido no treinamento Ignite da [Rocketseat](https://rocketseat.com.br/).
+O **spacetraveling** é uma aplicação em formato de blog. Desenvolvido módulo 3 do treinamento Ignite da [Rocketseat](https://rocketseat.com.br/) a partir de um scaffold, apenas com testes e arquivos template.
 
 ## 🔖 Layout
 
